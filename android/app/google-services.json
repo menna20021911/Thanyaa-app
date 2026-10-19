@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "896291831865",
+    "project_id": "thanya-project1",
+    "storage_bucket": "thanya-project1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896291831865:android:489cb00e64e10ba17c8de8",
+        "android_client_info": {
+          "package_name": "com.example.thanya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeMWKivD5mCORFv92BKFYL3b8T6o1pGsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
